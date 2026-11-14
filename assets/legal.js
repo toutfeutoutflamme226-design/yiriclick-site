@@ -1,0 +1,1 @@
+window.YLEGAL={nom:"",nomCommercial:"Yiriclick",entreprise:"Fougueux",forme:"eenmanszaak",adresse:"Spoorstraat 9, 3811 MN Amersfoort",pays:"NL",kvk:"86470167",btw:"NL004252296B80",email:"contact@yiriclick.com",site:"https://yiriclick.com/",tribunal:"Rechtbank Midden-Nederland",majLe:"2026-11-01"};
